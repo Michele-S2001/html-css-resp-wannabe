@@ -1,0 +1,15 @@
+@media (max-width: 1161px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (max-width: 650px) {
+    .row {
+        display: block;
+    }
+
+    .row .col {
+        width: 100%;
+    }
+}
