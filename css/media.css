@@ -12,6 +12,14 @@
     .row .col {
         width: 100%;
     }
+
+    .col:not(:last-child) > .card {
+        margin-bottom: 60px;
+    }
+
+    .why-us .col.col-left {
+        padding-bottom: 75px;
+    }
 }
 
 @media (max-width: 375px) {
