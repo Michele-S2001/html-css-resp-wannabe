@@ -1,10 +1,10 @@
-@media (max-width: 1161px) {
+@media (max-width: 1160px) {
     .container {
         width: 100%;
     }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 768px) {
     .row {
         display: block;
     }
@@ -22,7 +22,7 @@
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 480px) {
     .why-us {
         margin-bottom: 0;
         padding: 3rem 0;
